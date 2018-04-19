@@ -6,6 +6,7 @@ Write a short paper that addresses either (or both) of the following ideas, in a
 Or, make up your own questions! That would be even better :-)
 I'm not looking for any particular length.  I will award up to 10 points at my sole discretion, based on how well your writing demonstrates your growth in understanding this semester.
 
+---
 ### Introduction
 
 In many ways, coding is a similar way of thinking as that taught in law school, albeit with drastically different subject matter. In law school, we read a bunch of old cases and then try to formulate a generalized rule using deductive reasoning. Then, we apply this rule to the case at hand, attempting to persuade a judge why s/he should decide a case in our favor.
@@ -29,3 +30,6 @@ Working in the legal Clinic at school this semester, I always see myself thinkin
 But, there will continue to be road blocks to technology being used in law. LegalZoom and the North Carolina State Bar Association recently settled a lawsuit after the bar association had accused the online purveyor of legal services of unauthorized practice of law. Lawyers, law firms and regulators will need to become more open to using technology to provide legal services if they truly want to provide better legal services to more clients. There's no shortage of people who need legal services – on any given day, tons of individuals are representing themselves pro se in the Daly Center – but the current system simply doesn't have a way of providing services to them.
 
 This unmet need is the great hope that technology can address.
+
+Justice Oliver Wendell Holmes perhaps said it best:
+>"A mind that is stretched by a new idea can never go back to its original dimensions"
